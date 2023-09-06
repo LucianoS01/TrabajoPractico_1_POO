@@ -1,2 +1,3 @@
 # TrabajoPractico_1_POO
-TrabajoPractico_1
+# Alumno: Scialchi Luciano.
+# Legajo: 166719.
