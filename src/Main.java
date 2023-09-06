@@ -13,47 +13,7 @@ import Cola.*;
 public class Main {
     public static void main(String[] args) {
 
-
-
-
-
-
-
-
-
-
-
-
-        /*
-
-        */
-
-
-
-
-        /*
-
-        /*
-
-        /*
-
-        /*
-
-
-
-
-        /*
-
-        */
-
-
-
-
-
-
-
         Scanner scanner = new Scanner(System.in);
-
         while (true) {
             System.out.println("---- Menú Principal ----");
             System.out.println("1. Ejercicio 1");
@@ -70,7 +30,7 @@ public class Main {
             System.out.print("Elija una opción: ");
 
             int opcion = scanner.nextInt();
-            scanner.nextLine(); // Consumir la nueva línea pendiente
+            scanner.nextLine(); 
 
             switch (opcion) {
                 case 1:
